@@ -1,0 +1,16 @@
+{
+	"category" : "ConfigurationOfExternalProject",
+	"classinstvars" : [
+		 ],
+	"classtraitcomposition" : "{}",
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 5/4/2012 14:20",
+	"instvars" : [
+		 ],
+	"name" : "ConfigurationOfExternalProject",
+	"pools" : [
+		 ],
+	"super" : "MetacelloBaseConfiguration",
+	"traitcomposition" : "{}",
+	"type" : "normal" }
