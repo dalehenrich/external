@@ -1,18 +1,5 @@
-## External project
+## Configuration branch of External project
 
-A dependent project for the Sample project.
+ConfigurationOfExternal is managed here.
 
-Branch Structure:
-
-```
- +-master         Common code, documentation and BaselineOfExternalProject
-   +-gemstone     version of project for gemstone
-   +-pharo        version of project for pharo
-   +-squeak       version of project for squeak
- +-configuration  ConfigurationOfExternalProject working version
-   +-release      ConfigurationOfExternalProject release version
-```
-
-## Installation
-
-**TBD**
+For released versions of the **External** project look on the *release branch*.
