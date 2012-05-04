@@ -15,6 +15,27 @@ Branch Structure:
 
 ## Installation
 
-**TBD**
+ 1. [Install FileTree][2].
+ 2. Clone **External** repository
 
-[1]: [1]: https://github.com/dalehenrich/sample
+```shell
+    sudo mkdir /opt/git/
+    sudo chmod og+rw /opt/git/
+    cd /opt/git/
+    git clone https://github.com/dalehenrich/external.git
+```
+
+ 2. Install **External** project:
+
+```Smalltalk
+    Gofer new
+        repository: (MCFileTreeRepository new directory: 
+                    (FileDirectory on: '/opt/git/external/repository/'));
+        package: 'External-Core';
+        package: 'External-Tests';
+        load.
+
+```
+
+[1]: https://github.com/dalehenrich/sample
+[2]: https://github.com/dalehenrich/filetree/blob/master/README.md
