@@ -5,10 +5,10 @@
 	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "dkh 5/4/2012 13:53",
 	"instvars" : [
 		 ],
-	"name" : "ExternalTests",
+	"name" : "ExternalCoreTests",
 	"pools" : [
 		 ],
 	"super" : "TestCase",
