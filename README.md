@@ -1,6 +1,6 @@
 ## External project
 
-A dependent project for the Sample project.
+A dependent project for the [Sample project][1].
 
 Branch Structure:
 
@@ -16,3 +16,5 @@ Branch Structure:
 ## Installation
 
 **TBD**
+
+[1]: [1]: https://github.com/dalehenrich/sample
