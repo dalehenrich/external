@@ -1,3 +1,3 @@
 accessing
 authorName
-    ^ 'dkh'
+    ^ self class authorName
