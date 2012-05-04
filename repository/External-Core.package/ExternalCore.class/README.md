@@ -2,4 +2,4 @@
 
 The class method *authorName* is dialect dependent and will likely require a different implementation when ported.
 
-[1] https://github.com/dalehenrich/external
+[1]: https://github.com/dalehenrich/external
