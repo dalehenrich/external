@@ -10,4 +10,4 @@ version0900: spec
             spec timestamp: '5/4/2012 14:16' ].
     spec
         for: #'pharo'
-        do: [ spec baseline: 'github://dalehenrich/external:5f5c3b9435de497f1ed92b553728ec2ec67530ca/repository' ]
+        do: [ spec baseline: 'External' with: 'github://dalehenrich/external:5f5c3b9435de497f1ed92b553728ec2ec67530ca/repository' ]
