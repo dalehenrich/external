@@ -1,6 +1,6 @@
 versions
 version0900: spec
-    <baselineOf: 'External' for: '0.9'>
+    <version: '0.9' baselineOf: 'External'>
     spec
         for: #'common'
         do: [ 
