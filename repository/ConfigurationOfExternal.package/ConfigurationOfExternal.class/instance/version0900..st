@@ -13,4 +13,4 @@ version0900: spec
         do: [ 
             spec
                 baseline: 'External'
-                with: [ spec repository: 'github://dalehenrich/external:957492f31b77026d81dcb165c07c69b2ad897781/repository' ] ]
+                with: [ spec repository: 'github://dalehenrich/external:1ac58502ade7814e1590f71d615cca434b1a4fd5/repository' ] ]
