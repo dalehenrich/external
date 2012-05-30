@@ -11,6 +11,6 @@
 	"name" : "BaselineOfExternal",
 	"pools" : [
 		 ],
-	"super" : "MetacelloBaseBaselineConfiguration",
+	"super" : "BaselineOf",
 	"traitcomposition" : "{}",
 	"type" : "normal" }
