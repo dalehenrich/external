@@ -11,6 +11,6 @@
 	"name" : "BaselineOfExternal",
 	"pools" : [
 		 ],
-	"super" : "Object",
+	"super" : "BaselineOf",
 	"traitcomposition" : "{}",
 	"type" : "normal" }
