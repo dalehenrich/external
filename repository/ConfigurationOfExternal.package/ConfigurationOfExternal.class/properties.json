@@ -11,6 +11,6 @@
 	"name" : "ConfigurationOfExternal",
 	"pools" : [
 		 ],
-	"super" : "MetacelloBaseConfiguration",
+	"super" : "ConfigurationOf",
 	"traitcomposition" : "{}",
 	"type" : "normal" }
