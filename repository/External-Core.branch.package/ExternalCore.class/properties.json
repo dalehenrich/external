@@ -1,0 +1,14 @@
+{
+	"category" : "External-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dkh 5/4/2012 13:53",
+	"instvars" : [
+		 ],
+	"name" : "ExternalCore",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
