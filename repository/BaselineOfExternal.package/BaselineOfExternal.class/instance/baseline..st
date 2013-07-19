@@ -3,8 +3,7 @@ baseline: spec
   <baseline>
   spec description: 'https://github.com/dalehenrich/metacello-work/issues/185'.
   spec
-    package: 'External-Core unexpected token->'
-      with: [ spec file: 'External-Core.branch' ];
+    package: 'External-Core' with: [ spec file: 'External-Core.branch' ];
     package: 'External-Tests' with: [ spec requires: 'External-Core' ];
     yourself.
   spec
