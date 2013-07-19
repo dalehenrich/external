@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #'External-Core'!
+SystemOrganization addCategory: #'ExternalCore'!
