@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #BaselineOfExternal!
+SystemOrganization addCategory: #'BaselineOfExternal'!
