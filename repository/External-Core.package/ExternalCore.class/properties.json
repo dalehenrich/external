@@ -2,15 +2,13 @@
 	"category" : "External-Core",
 	"classinstvars" : [
 		 ],
-	"classtraitcomposition" : "{}",
 	"classvars" : [
 		 ],
 	"commentStamp" : "dkh 5/4/2012 13:53",
 	"instvars" : [
-		 ],
+		"b" ],
 	"name" : "ExternalCore",
 	"pools" : [
 		 ],
 	"super" : "Object",
-	"traitcomposition" : "{}",
 	"type" : "normal" }
