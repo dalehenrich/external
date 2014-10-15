@@ -4,7 +4,7 @@ baseline: spec
   spec description: 'https://github.com/dalehenrich/metacello-work/issues/185'.
   spec
     package: 'External-Core'
-      with: [ spec file: 'External-Core.branch' ];
+      with: [ spec file: 'External-Core' ];
     package: 'External-Tests' with: [ spec requires: 'External-Core' ];
     yourself.
   spec
