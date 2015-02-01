@@ -1,3 +1,3 @@
-*external-core
+*externalcore
 isExternal
     ^ false
